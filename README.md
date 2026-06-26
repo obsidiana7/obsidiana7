@@ -3,11 +3,7 @@
 
 # 🖤 Obsidiana
 
-```bash
-> booting profile...
-> welcome back, obsidiana
-> cybersecurity mode: active
-```
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Python+Learner;Linux+Explorer;Always+Learning+Something+New" />
 
@@ -38,25 +34,13 @@
 <br/>
 <br/>
 
-### 🎯 Current Goals
 
-```text
-[✓] Started Programming
-[✓] Learning Python
-[✓] Exploring Git & GitHub
-[ ] Improve Linux Skills
-[ ] Learn Networking
-[ ] Build More Projects
-[ ] Advance in Cybersecurity
-```
 
 ### 🖤 About Me
 
 ```yaml
-Alias: Obsidiana
+i'm Obsidiana
 
-Role:
-  Future Cybersecurity Specialist
 
 Interests:
   - Cybersecurity
@@ -65,32 +49,20 @@ Interests:
   - Python
   - Networking
 
-Status:
-  Learning Every Day
 ```
 
 ### 🔍 Interests
 
-Cybersecurity • Linux • Python • Networking • Open Source • Technology
+Cybersecurity • Linux • Python • Networking • Technology
 
-<br/>
 
-### 🖤 Philosophy
 
-> Knowledge is my strongest weapon.
-
-<br/>
+ 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png"></code>
 
 <br/><br/>
 
-```bash
-root@obsidiana:~# status
 
-Learning Mode: ACTIVE
-Mission: Cybersecurity
-Progress: Loading...
-```
 
 </div>
