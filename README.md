@@ -1,11 +1,11 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <div align="center">
 
-# 🖤 Obsidiana
+# 
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Python+Learner;Linux+Explorer;Always+Learning+Something+New" />
+<img  />
 
 <br/>
 
@@ -29,31 +29,21 @@
 
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+
 
 <br/>
 <br/>
 
 
 
-### 🖤 About Me
-
-```yaml
-i'm Obsidiana
+### 
 
 
-Interests:
-  - Cybersecurity
-  - Ethical Hacking
-  - Linux
-  - Python
-  - Networking
 
-```
 
 ### 🔍 Interests
 
-Cybersecurity • Linux • Python • Networking • Technology
+Cybersecurity • Linux • Python • Networking 
 
 
 
